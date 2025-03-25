@@ -1,0 +1,1 @@
+Aws teknolojileri ile yapmış olduğum  web projesi ekleri detaylı bilgi için : https://www.linkedin.com/posts/yusuf-kaya-2a2a48285_aws-vpc-s3-activity-7263626889603244032-k7Po?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVjQ5oB1qS-1EOTt68cbhog6AM6MbMaPSQ
